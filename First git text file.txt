@@ -1,1 +1,2 @@
 First git text file 
+Adding second line to text file
