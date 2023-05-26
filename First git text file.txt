@@ -1,2 +1,5 @@
 First git text file 
 Adding second line to text file
+Adding extra changes
+to test changes
+in a new branch
